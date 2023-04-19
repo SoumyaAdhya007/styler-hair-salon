@@ -41,13 +41,29 @@
   <li> Responsiveness for different device</li>
 </ul> 
 <h3> Pages of Website: </h3>
-<div display:"flex"  style="border: 2px solid black" >
-<kbd><a href="https://green-basketapp.netlify.app/"><img width="450" height="300" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/229336540-955388a1-b497-4391-a1e1-c4cbd2f148f2.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="450" height="300" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/229336567-c1c3f631-1cf1-439a-b83f-447a6f9f7a8d.png"></a></kbd>
-</kbd> </div>
+
+## Profile Page
+
+
+![Styler(2)](https://user-images.githubusercontent.com/112754567/233037053-ef74440a-73bf-43ba-9ea2-78fc88063cfe.png)
+
+
+----
+
+## Service Page
+![Styler(4)](https://user-images.githubusercontent.com/112754567/233036726-bde18b3e-1464-4bd2-b566-99a86daba305.png)
+
+----
+
+![Styler(5)](https://user-images.githubusercontent.com/112754567/233037218-006d4aa0-31ce-4769-8325-643f7f6132de.png)
+
+-----
+
+## Admin Dashboard Page
+
+![Styler(6)](https://user-images.githubusercontent.com/112754567/233037731-ba162c36-1c98-4a50-8ef6-3eb3f429b144.png)
+
 <br>
-<div display:"flex"  style="border: 2px solid black" >
-<kbd><a href="https://green-basketapp.netlify.app/"><img width="450" height="300" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/229336540-955388a1-b497-4391-a1e1-c4cbd2f148f2.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="450" height="300" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/229336567-c1c3f631-1cf1-439a-b83f-447a6f9f7a8d.png"></a></kbd>
-</kbd> </div>
 <h3 align="center"> System Design </h3>
 <img width="898" alt="layout" src="https://user-images.githubusercontent.com/113410376/229286983-c882202c-6a9b-4a9b-81e3-b7333d95763c.png">
 <h3 align="center"> Layout of the Website</h3>
